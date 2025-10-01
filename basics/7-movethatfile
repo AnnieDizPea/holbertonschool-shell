@@ -1,1 +1,2 @@
-Betty file #!/bin/bash\nmv /tmp/betty /tmp/my_first_directory/\n
+#!/bin/bash
+mv /tmp/betty /tmp/my_first_directory/
