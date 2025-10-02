@@ -1,1 +1,1 @@
-Shell repo for Holberton projects
+This repository contains solutions for Shell projects
